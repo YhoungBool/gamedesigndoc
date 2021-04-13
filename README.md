@@ -1,8 +1,8 @@
 # My Awesome Adventure
-Published by Game Publishing, Inc.  
-Developed by Game Developer, Inc.
+Published by Publishing Company
+Developed by Software Company
 
-Revision Version: X.X.X
+Revision Version: X.X
 
 
 ## Document History <a name="document-history"></a>
@@ -14,8 +14,8 @@ Revision Version: X.X.X
 
 ## Table of Contents
 [Document History](#document-history)  
-[Game Summary](#placeholder)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Target Platform(s)](#placeholder)  
+[Game Summary](#game-summary)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Target Platform(s)](#target-platforms)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Business Model](#placeholder)  
 [Game Overview](#placeholder)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Theme / Setting / Genre](#placeholder)  
@@ -43,17 +43,29 @@ Revision Version: X.X.X
 [Associated Documents](#placeholder)  
 
 
-## Switch to another file
+## Game Summary <a name="game-summary"></a>
+A high level overview of your product. Bullet points should be used to outline some key features.
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+ - Feature
+ - Another Feature
+ - Amazing feature
 
-## Rename a file
+### Target Platform(s) <a name="target-platforms"></a>
+List the platforms you are targeting. If any changes apply to different platforms, a high overview of changes for that platform is good to include.
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+- Android
+- iOS
+	- Includes support for iCloud
+- iPad OS
+	- Features additional landscape mode
+- Windows
+	- Available on Steam
+		- Features Steam Cloud saves
 
-## Delete a file
+### Business Model
+Include any business model your product may fllow. For instance, will there be ads, will it include IAP, will it be freemium or completely free?
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+- Free to Play without IAP and Advertisements
 
 ## Export a file
 
