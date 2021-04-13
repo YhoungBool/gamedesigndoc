@@ -1,5 +1,5 @@
 # My Awesome Adventure
-Published by Game Publishing, Inc.
+Published by Game Publishing, Inc.  
 Developed by Game Developer, Inc.
 
 Revision Version: X.X.X
